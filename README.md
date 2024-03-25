@@ -3,11 +3,11 @@
 OpenD is a project aimed at replicating the functionality and user interface of OpenSea, a leading decentralized marketplace for non-fungible tokens (NFTs). Built using modern web technologies and Ethereum smart contracts, OpenD offers users a familiar interface for trading, discovering, and interacting with NFTs.
 
 <div align="center">
-  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo1.png">
-  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo2.png">
-  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo3.png">
-  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo4.png">
-  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo5.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/demo1.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/demo2.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/demo3.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/demo4.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/demo5.png">
 </div> 
 
 ## About the App
