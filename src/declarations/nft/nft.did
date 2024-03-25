@@ -1,0 +1,9 @@
+type NFT = 
+ service {
+   img: () -> (vec nat8) query;
+   namer: () -> (text) query;
+   retOwn: () -> (principal) query;
+   thisCanisterId: () -> (principal) query;
+   transfer: (principal) -> (text);
+ };
+service : (text, principal, vec nat8) -> NFT
